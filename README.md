@@ -61,22 +61,22 @@
   <tr>
     <td>
         <a href="https://t.me/tired_glebmikheev" target="_blank">
-            <img src="https://avatars.githubusercontent.com/u/1610882?s=300" width=150 height=150 />
+            <img src="https://avatars.githubusercontent.com/u/1610882?s=300" width=150 />
             <br/>Глеб Михеев
         </a>
     </td><td>
         <a href="https://t.me/seryozha_typing" target="_blank">
-            <img src="https://avatars.githubusercontent.com/u/3905611?s=300" width=150 height=150 />
+            <img src="https://avatars.githubusercontent.com/u/3905611?s=300" width=150 />
             <br/>Серёжа Попов
         </a>
     </td><td>
         <a href="https://t.me/bashirovme" target="_blank">
-            <img src="https://avatars.githubusercontent.com/u/14079087?s=300" width=150 height=150 />
+            <img src="https://avatars.githubusercontent.com/u/14079087?s=300" width=150 />
             <br/>Альберт Баширов
         </a>
     </td><td>
         <a href="https://t.me/heyantonvolkov" target="_blank">
-            <img src="https://avatars.githubusercontent.com/u/15309315?s=300" width=150 height=150 />
+            <img src="https://avatars.githubusercontent.com/u/15309315?s=300" width=150 />
             <br/>Антон Волков
         </a>
     </td>
@@ -94,12 +94,12 @@
     </td>
     <td>
         <a href="https://t.me/js_by_vladilen" target="_blank">
-            <img src="https://avatars.githubusercontent.com/u/11278675?s=200" width=100 height=100 />
+            <img src="https://avatars.githubusercontent.com/u/11278675?s=200" width=100 />
             <br/>Владилен Минин
         </a>
     </td><td>
         <a href="https://github.com/mxmvshnvsk" target="_blank">
-            <img src="https://avatars.githubusercontent.com/u/25287077?s=200" width=100 height=100 />
+            <img src="https://avatars.githubusercontent.com/u/25287077?s=200" width=100 />
             <br/>Максим Вишневский
         </a>
     </td>
