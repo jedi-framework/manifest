@@ -88,7 +88,7 @@
   <tr>
     <td>
         <a href="https://t.me/bvevvs" target="_blank">
-            <img src="assets/bvvs.png" width=100 height=100 />
+            <img src="assets/bvvs.png" width=100 />
             <br/>Серёжа Щербинин
         </a>
     </td>
